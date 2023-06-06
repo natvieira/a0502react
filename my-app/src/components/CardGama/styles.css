@@ -1,0 +1,22 @@
+.card-gama {
+    background-color: #202020;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    border-radius: 2rem;
+    height: 216px;
+    font-weight: 900;
+}
+
+.card-gama h1{
+    color: neongreen;
+    font-size: 64px;
+}
+
+.card-gama p{
+    color: neongreen;
+    opacity: 0.9;
+    font-size: 14px;
+}
